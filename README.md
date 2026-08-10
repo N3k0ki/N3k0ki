@@ -1,62 +1,129 @@
-## Olá 👋, eu sou [Ana Clara!](https://github.com/N3k0ki)
+# Olá 👋, eu sou Ana Clara!
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/dev.amorim_/)
+### Full Stack Developer • Tecnologia • Design • Inovação
 
-### Que bom te ver por aqui! 
+Sou **desenvolvedora Full Stack** apaixonada por transformar ideias em produtos digitais funcionais, intuitivos e com propósito.
 
-Sou estudante e desenvolvedora apaixonada por tecnologia com propósito. Atualmente, trabalho em projetos como o **Coral Guard**, voltado para a conscientização ambiental e participação ativa dos usuários 🌊.
+Atuo no desenvolvimento de aplicações web, trabalhando desde a construção de interfaces e experiências de usuário até a lógica de back-end, bancos de dados, autenticação e integração com APIs.
 
-Tenho interesse especial em **JavaScript**, **React**, **Node.js** e **SQLite**, e adoro criar experiências únicas do zero. Estou sempre aprendendo e buscando formas de usar a tecnologia para transformar o mundo.
-
-Quando não estou programando, gosto de assistir séries, jogar Stardew Valley e criar sites com significado e sentimento. 🌟
-
-Sinta-se à vontade para se conectar ou colaborar!
-
-### Sobre mim:
-
-- 🛠 &nbsp; No momento, trabalho com React, SQLite, e CSS.
-- 🌱 &nbsp; Estudando APIs, autenticação e lógica de back-end.
-- 📌 &nbsp; Me envolvo em projetos que unem **tecnologia + propósito**.
-- 🎮 &nbsp; Jogo Stardew Valley há mais de 3 anos!
-- 📫 &nbsp; Entre em contato: ana0amorim0@gmail.com
+Gosto de criar projetos do zero, resolver problemas através da tecnologia e transformar conceitos em soluções reais. Minha atuação também se conecta com áreas como **robótica, educação, sustentabilidade e desenvolvimento de comunidades de tecnologia**.
 
 ---
 
-### Meus favoritos:
+## 💻 O que eu faço
 
-- 🎨 &nbsp; Criar interfaces personalizadas com significado.
-- 🎧 &nbsp; Montar playlists e sites cheios de sentimento.
-- 🧠 &nbsp; Ter ideias e prototipar soluções criativas.
-
----
-
-### Linguagens e Ferramentas:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" alt="SQL" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/vscode/vscode.png" alt="VS Code" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" /></code>
+* 🌐 Desenvolvimento de aplicações **Full Stack**
+* ⚛️ Interfaces modernas com **React**
+* 🟨 Desenvolvimento com **JavaScript**
+* ⚙️ APIs e aplicações com **Node.js**
+* 🗄️ Modelagem e integração com **bancos de dados**
+* 🔐 Autenticação e gerenciamento de usuários
+* 🔌 Integração com APIs e serviços externos
+* ☁️ Desenvolvimento utilizando serviços como **Firebase**
+* 🎨 Desenvolvimento de interfaces com foco em **UI/UX**
+* 📱 Criação de aplicações responsivas e mobile-first
 
 ---
 
-### Atividades no GitHub:
+## 🛠️ Tecnologias
 
-<details>
-  <summary><b>⚙️ Ferramentas que uso</b></summary>
-  <ul>
-    <li><b>Sistema:</b> Windows</li>  
-    <li><b>Editor de código:</b> Notepad++ e VSCode</li>
-    <li><b>Navegador:</b> Opera GX</li>
-    <li><b>Outras ferramentas:</b> Canva, Figma, GitHub, SQLite Viewer</li>
-  </ul>
-</details>
+### Front-end
 
-#
+<p>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></code>
+</p>
+
+### Back-end & Banco de Dados
+
+<p>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase"></code>
+</p>
+
+* Node.js
+* APIs REST
+* SQLite
+* Firebase / Firestore
+* Firebase Authentication
+* Firebase Storage
+
+### Integrações & Serviços
+
+* Google Maps API
+* Google Places API
+* Cloudinary
+* Firebase
+* APIs REST
+
+### Ferramentas
+
+<p>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"></code>
+</p>
+
+---
+
+## 🚀 Projetos
+
+### 🌊 Coral Guard
+
+Uma aplicação voltada ao **monitoramento e conscientização sobre recifes de coral**, utilizando tecnologia para incentivar a participação dos usuários e aproximar as pessoas da preservação ambiental.
+
+**Stack:** React • Firebase • Firestore • Cloudinary • Google Maps API
+
+---
+
+### 🤖 DNA Bots
+
+Projeto e atuação relacionados à **robótica educacional**, envolvendo desenvolvimento tecnológico, inovação, resolução de problemas e trabalho em equipe através da FIRST LEGO League.
+
+A tecnologia é utilizada como ferramenta para criar soluções, compartilhar conhecimento e gerar impacto dentro e fora da equipe.
+
+---
+
+### 🏆 Copa Dev
+
+Iniciativa criada para movimentar a comunidade de tecnologia através de uma competição de programação.
+
+A Copa Dev busca transformar o desenvolvimento de software em uma experiência competitiva, criativa e colaborativa, incentivando participantes a colocarem suas habilidades em prática.
+
+---
+
+## 🎯 Meu foco
+
+Acredito que desenvolver software vai muito além de escrever código.
+
+É entender um problema, pensar em uma solução, construir, testar, melhorar e transformar uma ideia em algo que realmente possa ser utilizado.
+
+Por isso, gosto de trabalhar em projetos que unem:
+
+**Código + Design + Criatividade + Propósito**
+
+---
+
+## 💜 Além do código
+
+🎮 Stardew Valley
+🤖 Robótica
+♟️ Xadrez
+🎲 RPG
+🎧 Música
+🎨 Design
+💡 Criar projetos e transformar ideias em realidade
+
+---
 
 <div align="center">
-  ⭐ Curta os repositórios que você achou legais! ⭐
+
+### Code. Create. Solve. Impact.
+
+⭐ Explore meus projetos e fique à vontade para acompanhar meu trabalho.
+
 </div>

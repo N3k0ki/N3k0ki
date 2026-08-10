@@ -6,7 +6,7 @@ Sou **desenvolvedora Full Stack** apaixonada por transformar ideias em produtos 
 
 Atuo no desenvolvimento de aplicações web, trabalhando desde a construção de interfaces e experiências de usuário até a lógica de back-end, bancos de dados, autenticação e integração com APIs.
 
-Gosto de criar projetos do zero, resolver problemas através da tecnologia e transformar conceitos em soluções reais. Minha atuação também se conecta com áreas como **robótica, educação, sustentabilidade e desenvolvimento de comunidades de tecnologia**.
+Gosto de criar projetos do zero, resolver problemas através da tecnologia e transformar conceitos em soluções reais. Também me interesso por **robótica, educação, sustentabilidade, design e comunidade de tecnologia**.
 
 ---
 
@@ -15,49 +15,21 @@ Gosto de criar projetos do zero, resolver problemas através da tecnologia e tra
 * 🌐 Desenvolvimento de aplicações **Full Stack**
 * ⚛️ Interfaces modernas com **React**
 * 🟨 Desenvolvimento com **JavaScript**
-* ⚙️ APIs e aplicações com **Node.js**
-* 🗄️ Modelagem e integração com **bancos de dados**
+* ⚙️ Desenvolvimento de back-end com **Node.js**
+* 🗄️ Bancos de dados e persistência de dados
 * 🔐 Autenticação e gerenciamento de usuários
 * 🔌 Integração com APIs e serviços externos
-* ☁️ Desenvolvimento utilizando serviços como **Firebase**
-* 🎨 Desenvolvimento de interfaces com foco em **UI/UX**
-* 📱 Criação de aplicações responsivas e mobile-first
+* ☁️ Aplicações utilizando serviços em nuvem
+* 🎨 Desenvolvimento de interfaces e experiências digitais
+* 📱 Desenvolvimento responsivo e mobile-first
 
 ---
 
-## 🛠️ Tecnologias
+🛠️ Tecnologias
 
-### Front-end
+<p> <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code> <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code> <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js"></code> <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite"></code> <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></code> <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></code> </p>
 
-<p>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></code>
-</p>
-
-### Back-end & Banco de Dados
-
-<p>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase"></code>
-</p>
-
-* Node.js
-* APIs REST
-* SQLite
-* Firebase / Firestore
-* Firebase Authentication
-* Firebase Storage
-
-### Integrações & Serviços
-
-* Google Maps API
-* Google Places API
-* Cloudinary
-* Firebase
-* APIs REST
+JavaScript • React • Next.js • Vite • HTML5 • CSS3
 
 ### Ferramentas
 
@@ -70,41 +42,29 @@ Gosto de criar projetos do zero, resolver problemas através da tecnologia e tra
 
 ---
 
-## 🚀 Projetos
+## 🌐 Onde me encontrar
 
-### 🌊 Coral Guard
+<p align="center">
+  <a href="https://www.instagram.com/dev.amorim_/">
+    <img src="https://img.shields.io/badge/Instagram-@dev.amorim_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 
-Uma aplicação voltada ao **monitoramento e conscientização sobre recifes de coral**, utilizando tecnologia para incentivar a participação dos usuários e aproximar as pessoas da preservação ambiental.
+  <a href="https://www.tiktok.com/@devakkoi">
+    <img src="https://img.shields.io/badge/TikTok-@dev.amorim_-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
 
-**Stack:** React • Firebase • Firestore • Cloudinary • Google Maps API
-
----
-
-### 🤖 DNA Bots
-
-Projeto e atuação relacionados à **robótica educacional**, envolvendo desenvolvimento tecnológico, inovação, resolução de problemas e trabalho em equipe através da FIRST LEGO League.
-
-A tecnologia é utilizada como ferramenta para criar soluções, compartilhar conhecimento e gerar impacto dentro e fora da equipe.
-
----
-
-### 🏆 Copa Dev
-
-Iniciativa criada para movimentar a comunidade de tecnologia através de uma competição de programação.
-
-A Copa Dev busca transformar o desenvolvimento de software em uma experiência competitiva, criativa e colaborativa, incentivando participantes a colocarem suas habilidades em prática.
+  <a href="https://youtube.com/@4kkoi?si=IlAtYtPH8bnXbezu">
+    <img src="https://img.shields.io/badge/YouTube-Dev%20Amorim-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
 
 ---
 
-## 🎯 Meu foco
+## 🎯 Minha visão
 
-Acredito que desenvolver software vai muito além de escrever código.
+Acredito que tecnologia não precisa apenas **funcionar** — ela pode ensinar, conectar, inspirar e transformar.
 
-É entender um problema, pensar em uma solução, construir, testar, melhorar e transformar uma ideia em algo que realmente possa ser utilizado.
-
-Por isso, gosto de trabalhar em projetos que unem:
-
-**Código + Design + Criatividade + Propósito**
+Gosto de unir **desenvolvimento, design e criatividade** para construir experiências digitais que tenham propósito e sejam capazes de gerar impacto.
 
 ---
 
@@ -116,7 +76,7 @@ Por isso, gosto de trabalhar em projetos que unem:
 🎲 RPG
 🎧 Música
 🎨 Design
-💡 Criar projetos e transformar ideias em realidade
+💡 Criar ideias e transformar conceitos em realidade
 
 ---
 
@@ -124,6 +84,6 @@ Por isso, gosto de trabalhar em projetos que unem:
 
 ### Code. Create. Solve. Impact.
 
-⭐ Explore meus projetos e fique à vontade para acompanhar meu trabalho.
+⭐ Obrigada por visitar meu perfil!
 
 </div>
